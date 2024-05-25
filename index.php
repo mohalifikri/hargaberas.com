@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Implementasi Metode Least Square untuk Prediksi Harga Beras Grosir Berbasis Web</title>
+    <link rel="shortcut icon" href="https://ti.polindra.ac.id/images/ti.polindra.ac.id-09032017120305-LOGO-POLINDRA-WEB.png" type="image/x-icon" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   </head>
   <body>
